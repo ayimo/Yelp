@@ -264,7 +264,7 @@ nav{
 }
 
 /*Tablet*/
-@media (min-width:601px) and (max-width:1060px){
+@media (min-width:601px) and (max-width:1046px){
 
   #tophalf{
     height: 400px;
@@ -306,7 +306,7 @@ nav{
 
 }
 /*Desktop?*/
-@media (min-width: 1061px) and (max-width: 1680px){
+@media (min-width: 1047px) and (max-width: 1680px){
 
   #locations{
     text-align: -webkit-center;
@@ -328,7 +328,7 @@ nav{
 
   .logo {
     height: 136px;
-    margin-left: 45%;
+    margin-left: 44%;
     margin-top: 14%;
     float: none;
   }
