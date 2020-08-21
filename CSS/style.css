@@ -4,6 +4,7 @@
 
 body{
   margin: 0;
+  background-color: rgba(247, 247, 247, 0.9);
 }
 
 .coffee{
@@ -212,8 +213,10 @@ nav{
   }
 
   .logo {
-    margin-left: 33%;
+    margin-left: 25%;
     float: none;
+    display: block;
+    margin-top: 49%;
 }
 
   .coffee{
@@ -237,11 +240,6 @@ nav{
     margin-top: -46%;
   }
 
-  .logo{
-    display: block;
-    margin-top: 49%;
-  }
-
   .navigate{
     display: none;
   }
@@ -259,6 +257,24 @@ nav{
 
   .topbars{
     display: none;
+  }
+
+  .four{
+    border: 2px solid black;
+    height: 92px;
+    width: 19%;
+    display: inline-block;
+    margin-right: 15px;
+    color: black;
+    font-size: 10px;
+    background-color: white;
+    float: left;
+  }
+
+  .four > img {
+    width: 43px;
+    height: 35px;
+    margin-top: 6%;
   }
 
 }
